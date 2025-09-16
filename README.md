@@ -31,6 +31,10 @@ The "iloc []" allows the student to select a specific row and column using their
 
 <img width="763" height="634" alt="image" src="https://github.com/user-attachments/assets/caadacad-f195-40c3-a5ee-32fd70e63244" />
 
+The "loc []" allows the student to select a specific row and column using its names or labels. It also allows multiple, disordered rows.
+
+The file was saved as "Surname_Pandas-P2.py", which bases to the requirements of the problem. The code won't run if the file name is not named as the file requirement.
+
 
 
 
